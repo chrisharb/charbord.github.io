@@ -35,6 +35,14 @@
 	font-family: "Lucida Console", Monaco, Monospace;
 	}
 
+	li {
+		color: #32cd32;
+		font-size: 1em;
+		margin-bottom: .3em;
+		text-align: centre;
+	font-family: "Lucida Console", Monaco, Monospace;
+	}
+
   em {
     color: #32cd32;
    	font-size: 1.5em;
