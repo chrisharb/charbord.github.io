@@ -6,7 +6,7 @@
     text-align: centre;
 	font-family: "Lucida Console", Monaco, Monospace;
   }
-  
+
   h2  {
     color: #32cd32;
     font-size: 1.5em;
@@ -14,11 +14,11 @@
     text-align: centre;
 	font-family: "Lucida Console", Monaco, Monospace;
   }
-  
+
   img {
       image-orientation: from-image;
   }
-  
+
   p  {
     color: #32cd32;
     font-size: 1em;
@@ -26,7 +26,15 @@
     text-align: centre;
 	font-family: "Lucida Console", Monaco, Monospace;
   }
-  
+
+	li {
+		color: #32cd32;
+		font-size: 1em;
+		margin-bottom: .3em;
+		text-align: centre;
+	font-family: "Lucida Console", Monaco, Monospace;
+	}
+
   em {
     color: #32cd32;
    	font-size: 1.5em;
@@ -39,27 +47,27 @@
     margin: .3em;
     width: 290px;
   }
-  
+
   th {
     padding: .2em;
   }
-  
+
   td {
     background-color: #ffc;
     border: 1px solid #900;
     padding-left: .5em;
     padding-right: .5em;
   }
-  
+
   #trHeader {
     color: #900;
     text-decoration: underline;
   }
-  
+
   .centerCell {
     text-align: center;
   }
-  
+
   .topnav {
 	  background-color: #000;
 	  overflow: hidden;
@@ -74,7 +82,7 @@
 	  text-decoration: none;
 	  font-size: 17px;
   }
-  
+
   .topnav a:hover {
 	  background-color: #fff;
 	  color: #32cd32;
